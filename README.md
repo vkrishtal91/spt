@@ -1,0 +1,2 @@
+# spt
+Simple Packaging Tool
